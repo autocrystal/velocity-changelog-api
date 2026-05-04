@@ -1,5 +1,5 @@
 # Velocity Changelog API
-For managing the changelogs available on the [Velocity Website](https://github.com/autocrystal/velocity.lat)
+For managing the changelogs available on the [Velocity Website](https://github.com/autocrystal/velocity.lat).
 
 ## Auth
 
